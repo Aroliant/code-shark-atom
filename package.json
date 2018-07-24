@@ -1,7 +1,7 @@
 {
   "name": "code-shark-atom",
   "main": "./lib/code-shark-atom",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Platform to improve your coding. Saving the code once to get it for future use.",
   "keywords": [],
   "activationCommands": {
