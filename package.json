@@ -1,0 +1,44 @@
+{
+  "name": "code-shark-atom",
+  "main": "./lib/code-shark-atom",
+  "version": "0.0.0",
+  "description": "Platform to improve your coding. Saving the code once to get it for future use.",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "code-shark-atom:toggle"
+  },
+  "configSchema": {
+    "apikey": {
+      "title": "Api Key",
+      "description": "Code Shark",
+      "type": "string",
+      "default": "",
+      "order": 1
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Aroliant/code-shark-atom"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "atom-select-list": "^0.7.1",
+    "fuzzaldrin": "^2.1.0",
+    "ini": "^1.3.5",
+    "request": "^2.87.0"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": ""
+}

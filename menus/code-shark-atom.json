@@ -1,0 +1,20 @@
+{
+    "context-menu": {
+        "atom-text-editor": [{
+            "label": "Toggle code-shark-atom",
+            "command": "code-shark-atom:toggle",
+            "command": "code-shark-atom:apiKey"
+        }]
+    },
+    "menu": [{
+        "label": "Packages",
+        "submenu": [{
+                "label": "code-shark-atom",
+                "submenu": [{
+                    "label": "Insert Code",
+                    "command": "code-shark-atom:toggle"
+                }]
+            }
+        ]
+    }]
+}
