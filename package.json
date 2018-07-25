@@ -1,5 +1,6 @@
 {
   "name": "code-shark-atom",
+  "title": "Code Shark",
   "main": "./lib/code-shark-atom",
   "version": "1.1.0",
   "description": "Platform to improve your coding. Saving the code once to get it for future use.",
