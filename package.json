@@ -2,7 +2,7 @@
   "name": "code-shark-atom",
   "title": "Code Shark",
   "main": "./lib/code-shark-atom",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Platform to improve your coding. Saving the code once to get it for future use.",
   "keywords": [],
   "activationCommands": {
