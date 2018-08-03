@@ -9,9 +9,9 @@
     "menu": [{
         "label": "Packages",
         "submenu": [{
-                "label": "codeshark-atom",
+                "label": "CodeShark",
                 "submenu": [{
-                    "label": "CodeShark: Search Code",
+                    "label": "Search Code",
                     "command": "codeshark-atom:toggle"
                 }]
             }

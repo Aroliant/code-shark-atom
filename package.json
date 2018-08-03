@@ -6,7 +6,7 @@
   "description": "Import code into your editor with our CodeShark Online Platform.",
   "keywords": [],
   "activationCommands": {
-    "atom-workspace": "code-shark-atom:toggle"
+    "atom-workspace": "codeshark-atom:toggle"
   },
   "configSchema": {
     "apikey": {
